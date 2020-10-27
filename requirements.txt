@@ -21,7 +21,7 @@ colorama==0.4.3
 constantly==15.1.0
 contextvars==2.4
 convertdate==2.2.1
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 daphne==2.5.0
 decorator==4.4.2
